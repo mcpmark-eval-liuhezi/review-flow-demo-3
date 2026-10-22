@@ -1,0 +1,5 @@
+Draft notes for the onboarding demo:
+- show the diff view
+- walk through the inline review comments
+- finish with the cleanup commit
+TODO: delete this file before the session.
